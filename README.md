@@ -175,11 +175,3 @@ https://www.cyclesuk.com/182068/products/cannondale-supersix-evo-carbon-105-2020
 * Sizes Available - 44, 48, 51, 54, 56, 58, 60, 62
 
 
-## Frames
-
-### Condor Potenza Frameset
-
-https://www.condorcycles.com/collections/sale-frames/products/condor-potenza-frameset
-
-* £999.99
-

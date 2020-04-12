@@ -17,6 +17,8 @@ Choose a road bike
 * https://www.cyclerepublic.com/
 * https://www.cyclesuk.com/
 
+* https://roadcycleexchange.com/
+
 ## Notes
 
 ### Groupsets
@@ -189,3 +191,4 @@ https://www.cyclesuk.com/182068/products/cannondale-supersix-evo-carbon-105-2020
 * Sizes Available - 44, 48, 51, 54, 56, 58, 60, 62
 
 
+## https://roadcycleexchange.com/products/trek-domane-slr-6-disc-shimano-ultegra

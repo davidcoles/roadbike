@@ -147,6 +147,33 @@ https://www.cyclesuk.com/182068/products/cannondale-supersix-evo-carbon-105-2020
 
 * £1999.99
 
+### Specification
+
+* Frame - All-New, BallisTec Carbon, direct mount rim brake, integrated cable routing w/ Switchplate, 130x9mm QR, SAVE, PF30a, integrated seat binder
+* Fork - All-New, BallisTec Carbon, direct mount rim brake, SAVE, 1-1/8" to 1-1/4" steerer, integrated crown race, 100x9mm QR, 55mm offset (47-54cm) 45mm offset (56-62cm)
+* Rims - Fulcrum Racing 900
+* Hubs - (F) Fulcrum Racing 900 / (R) Fulcrum Racing 900
+* Spokes - Fulcrum, Stainless steel
+* Tyres - Vittoria Zaffiro Pro Slick, 700 x 25c
+* Pedals - Not Included
+* Crank - Cannondale 1, BB30a, FSA rings, 52/36
+* Bottom Bracket - Cannondale Alloy PressFit30
+* Chain - Shimano HG601, 11-speed
+* Rear Cogs - Shimano 105, 11-30, 11-speed
+* Front Derailleur - Shimano 105, braze-on
+* Rear Derailleur - Shimano 105 GS
+* Shifters - Shimano 105, 2x11
+* Handlebar - Cannondale 3, 6061 alloy, Compact
+* Grips - Cannondale Grip Bar Tape w/Gel, 3.5mm
+* Stem - Cannondale 3, 6061 alloy, 7-degree
+* Headset - SuperSix, 1-1/4" lower bearing, 25mm top cap
+* Brakes - Shimano 105
+* Brake Levers - Shimano 105
+* Saddle - Prologo Nago RS STN
+* Seatpost - All-New HollowGram 27 KNØT, Alloy, 2 bolt clamp, 330mm
+* Speeds - 22
+* Sizes Available - 44, 48, 51, 54, 56, 58, 60, 62
+
 
 ## Frames
 

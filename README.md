@@ -16,7 +16,7 @@ Choose a road bike
 * https://www.cyclesurgery.com/
 
 
-## Evans Cycles
+## Bikes
 
 ###  Cannondale CAAD13 105 2020 Road Bike
 
@@ -140,7 +140,7 @@ https://www.cyclesurgery.com/p/cannondale-synapse-carbon-disc-105-2020-Q2214370.
 Product Code: Q2214370
 
 
-## Condor
+## Frames
 
 ### Condor Potenza Frameset
 

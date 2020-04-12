@@ -17,6 +17,19 @@ Choose a road bike
 * https://www.cyclerepublic.com/
 * https://www.cyclesuk.com/
 
+## Notes
+
+### Groupsets
+
+* Shimano 105 ££
+* Shimano Ultegra £££
+* Shimano Dura-Ace ££££
+* Di2 - fancy pants digital shizzle
+
+## Useful links
+
+* https://www.evanscycles.com/coffeestop/advice/shimano-105-ultegra-or-dura-ace
+
 ## Bikes
 
 ###  Cannondale CAAD13 105 2020 Road Bike

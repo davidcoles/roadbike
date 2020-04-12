@@ -85,3 +85,13 @@ https://www.evanscycles.com/cannondale-synapse-tia-2020-road-bike-EV360792
 * Saddle 	Fabric Scoop Shallow Sport, steel rails
 * Seatpost 	Cannondale 4, 6061 Alloy, 25.4 x 350mm (44-56), 400mm (58-61)
 * Weight 	9.42kg (Aproximate weight for size 56cm with no pedals)
+
+
+## Condor
+
+### Condor Potenza Frameset
+
+https://www.condorcycles.com/collections/sale-frames/products/condor-potenza-frameset
+
+* £999.99
+

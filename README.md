@@ -14,7 +14,8 @@ Choose a road bike
 
 * https://www.evanscycles.com/
 * https://www.cyclesurgery.com/
-
+* https://www.cyclerepublic.com/
+* https://www.cyclesuk.com/
 
 ## Bikes
 
@@ -138,6 +139,13 @@ https://www.cyclesurgery.com/p/cannondale-synapse-carbon-disc-105-2020-Q2214370.
 * Pedals–Not Included
 
 Product Code: Q2214370
+
+
+## Cannondale SuperSix EVO Carbon 105 2020 Road Bike Emerald
+
+https://www.cyclesuk.com/182068/products/cannondale-supersix-evo-carbon-105-2020-road-bike-emerald.aspx
+
+* £1999.99
 
 
 ## Frames

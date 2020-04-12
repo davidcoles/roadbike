@@ -10,16 +10,18 @@ https://www.evanscycles.com/cannondale-caad13-105-2020-road-bike-EV360804
 
 * £1600
 
-
+#### Key features
 
 * All-New, SmartForm C1 Premium Alloy Frame with a stiff but light construction allows you to convert more of your power into speed
 * All-New, BallisTec Carbon Fork is lightweight and engineered to flex, absorbing shock and vibration
 * Shimano 105 2x11 Speed Drivetrain gives you a fantastic smooth and precise shifting experience, with greater durability for long lasting performance
 * Shimano 105 Rim Brakes give controllable and consistent stopping power, with minimal fuss and reduced weight
 * Vittoria Zaffiro 700 x 28c Tyres offer excellent rolling ability on the tarmac whilst keeping you planted and in control
-    
 * Frame 	All-New, SmartForm C1 Premium Alloy, direct mount rim brake, integrated cable routing w/ Switchplate, SAVE, BB30a, 142x12 Speed Release thru-axle, Di2 Ready
 * Fork 	All-New, BallisTec Carbon, direct mount rim brake, SAVE, 1-1/8” to 1-1/4” steerer, integrated crown race, 12x100mm Speed Release thru-axle, 55mm offset (47-54cm) 45mm offset (56-62cm)
+
+
+#### Specification
 
 * Front Derailleur 	Shimano 105, braze-on
 * Rear Derailleur 	Shimano 105 GS
@@ -50,17 +52,15 @@ https://www.evanscycles.com/cannondale-synapse-tia-2020-road-bike-EV360792
 
 * £1700
 
+#### Key features
+
 * BallisTec Carbon Frame for stiff but light construction allows you to convert more of your power into speed
-
 * BallisTec Carbon Fork is engineered to flex to absorb shock and vibration
-
 * Shimano Tiagra 20 Speed Drivetrain for precise gear changes and making it easier to ride up steep hills
-
 *  Shimano Tiagra Hydraulic Disc Brakes give powerful, controllable and consistent stopping power with less effort
-
 * Vittoria Zaffiro 700 x 28c Tyres for the fastest speed on the tarmac
 
-
+#### Specification
 
 * Frame 	BallisTec Carbon, Di2 ready, SAVE, BB30a, flat mount, 12mm thru axle, internal cable routing, removable fender bridge
 * Fork 	BallisTec Carbon, SAVE, integrated crown race, 12x100mm thru-axle, internal routing, size-specific design

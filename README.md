@@ -21,10 +21,11 @@ Choose a road bike
 
 ### Groupsets
 
-* Shimano 105 ££
-* Shimano Ultegra £££
-* Shimano Dura-Ace ££££
-* Di2 - fancy pants digital shizzle
+* Shimano Tiagra £ - 10-speed
+* Shimano 105 ££ - 11-speed
+* Shimano Ultegra £££ 11-speed
+* Shimano Dura-Ace ££££ 11-speed
+* Di2 - fancy pants digital stuff
 
 ## Useful links
 

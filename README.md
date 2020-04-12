@@ -1,6 +1,20 @@
 # roadbike
 Choose a road bike
 
+## Brands
+
+* Cannondale
+* Cervelo
+* Ribble
+* Canyon
+* Trek
+* Specialised(?)
+
+## Stores
+
+* https://www.evanscycles.com/
+* https://www.cyclesurgery.com/
+
 
 ## Evans Cycles
 
@@ -46,6 +60,8 @@ https://www.evanscycles.com/cannondale-caad13-105-2020-road-bike-EV360804
 * Seatpost  All-New HollowGram KNØT 27, Alloy, 2 bolt clamp, 330mm
 * Weight 	  8.44 kg (Aproximate weight for size 56cm with no pedals) 
 
+
+
 ### Cannondale Synapse Tia 2020 Road Bike
 
 https://www.evanscycles.com/cannondale-synapse-tia-2020-road-bike-EV360792
@@ -85,6 +101,43 @@ https://www.evanscycles.com/cannondale-synapse-tia-2020-road-bike-EV360792
 * Saddle 	Fabric Scoop Shallow Sport, steel rails
 * Seatpost 	Cannondale 4, 6061 Alloy, 25.4 x 350mm (44-56), 400mm (58-61)
 * Weight 	9.42kg (Aproximate weight for size 56cm with no pedals)
+
+
+
+### Synapse Carbon Disc 105 2020
+
+https://www.cyclesurgery.com/p/cannondale-synapse-carbon-disc-105-2020-Q2214370.html?colour=124
+
+
+* £1,899.00
+
+### Features/Specification
+
+* Frame–BallisTec Carbon, Di2 ready, SAVE, BB30a, flat mount, 12mm thru axle, internal cable routing, removable fender bridge
+* Fork–BallisTec Carbon, SAVE, integrated crown race, 12x100mm thru-axle, internal routing, size-specific design–44-48: 1 1/8" steerer, 60mm rake 51-54: 1-1/8"–1-1/4" tapered steerer, 55mm rake 56-61: 1-1/8"–1-3/8" tapered steerer, 45mm rake
+* Headset–Synapse, 1-1/4" lower bearing, 25mm top cap
+* Stem–Cannondale 3, 6061 alloy, 7-degree
+* Handlebars–Cannondale 3, 6061 alloy, Compact
+* Grips–Cannondale Grip Bar Tape w/Gel, 3.5mm
+* Grips–Cannondale Grip Bar Tape w/Gel, 3.5mm
+* Brakes–Shimano 105 hydro disc, 160/160mm RT30 rotors
+* Brake Levers–Shimano 105 hydro disc
+* Shifters–Shimano 105 hydro disc, 2x11
+* Front Derailleur–Shimano 105, braze-on
+* Rear Derailleur–Shimano 105 GS
+* Chainset–Cannondale 1, BB30a, FSA rings, 50/34
+* Chain–Shimano HG601, 11-speed
+* Cassette–Shimano 105, 11-34, 11-speed
+* Bottom Bracket–Cannondale Alloy PressFit30
+* Hubs–(F) Formula CL-712, 12x100mm centerlock (R) Formula RXC-400, 12x142 centerlock
+* Rims–RD 2.0, 28h
+* Spokes–Stainless steel, 14g
+* Tyres–Vittoria Zaffiro Pro Bright Black, 700 x 30c
+* Saddle–Fabric Scoop Shallow Sport, steel rails
+* Seat Post–Cannondale 3, 6061 Alloy, 25.4 x 350mm (46-56), 400mm (58-61)
+* Pedals–Not Included
+
+Product Code: Q2214370
 
 
 ## Condor

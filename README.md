@@ -192,3 +192,38 @@ https://www.cyclesuk.com/182068/products/cannondale-supersix-evo-carbon-105-2020
 
 
 ## https://roadcycleexchange.com/products/trek-domane-slr-6-disc-shimano-ultegra
+
+## Trek Emonda Sl 6 2019 Road Bike Rage Red
+
+https://www.cyclesuk.com/1813/products/trek-emonda-sl-6-2019-road-bike-rage-red.aspx
+
+* £2000.00
+
+###  Key Features
+
+* It's got climbing in its genes, and the lightweight OCLV Carbon frame lets you explore bigger mountains with less effort
+* It's great for a wide range of riders, from beginners who want a high-quality carbon bike to racers who can spot good value
+* Like every Émonda, it's built to be the lightest and fastest in its class and backed by our lifetime warranty
+
+* Frame - Ultralight 500 Series OCLV Carbon, tapered head tube, BB90, direct mount rim brakes, internal cable routing, DuoTrap S compatible, Ride Tuned seatmast
+* Fork - Émonda full carbon, carbon tapered steerer, carbon dropouts, direct-mount rim brakes
+* Wheels - Bontrager Paradigm Tubeless Ready
+* Tyres - Bontrager R2 Hard-Case Lite, 700x25c
+* Max tyre size - 25 c Bontrager tyres (with at least 4 mm of clearance to frame)
+* Shifters - Shimano Ultegra, 11-speed
+* Front derailleur - Shimano Ultegra, braze-on
+* Rear derailleur - Shimano Ultegra
+* Crank - Shimano Ultegra, 50/34 (compact)
+* Bottom bracket - BB90
+* Cassette - Shimano Ultegra, 11-28, 11-speed
+* Chain - Shimano Ultegra
+* Pedals - Not included
+* Saddle - Bontrager Montrose Comp, chromoly rails
+* Seatpost - Bontrager Ride Tuned carbon seatmast cap, 20 mm offset
+* Handlebar - Bontrager Elite VR-C, 31.8 mm
+* Grips - Bontrager tape
+* Stem - Bontrager Pro, 31.8 mm, 7-degree, w/computer and light mounts
+* Headset - Integrated, cartridge bearing, sealed, 1-1/8˝ top, 1.5˝ bottom
+* Brake set - Bontrager Speed Stop, direct mount
+* Weight - 56cm – 7.53 kg/16.6 lbs
+* Weight limit - This bike has a maximum total weight limit (combined weight of bicycle, rider and cargo) of 125 kg (275 lb).

@@ -205,6 +205,9 @@ https://www.cyclesuk.com/1813/products/trek-emonda-sl-6-2019-road-bike-rage-red.
 * It's great for a wide range of riders, from beginners who want a high-quality carbon bike to racers who can spot good value
 * Like every Émonda, it's built to be the lightest and fastest in its class and backed by our lifetime warranty
 
+
+### Specification
+
 * Frame - Ultralight 500 Series OCLV Carbon, tapered head tube, BB90, direct mount rim brakes, internal cable routing, DuoTrap S compatible, Ride Tuned seatmast
 * Fork - Émonda full carbon, carbon tapered steerer, carbon dropouts, direct-mount rim brakes
 * Wheels - Bontrager Paradigm Tubeless Ready
